@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React now..it is so much fun with AWS elastic bean stock.
+            Learn React now..it is so much fun. AWS elastic bean stock.
           </a>
         </header>
       </div>
