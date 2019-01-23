@@ -19,7 +19,6 @@ class App extends Component {
           >
             Learn React now.
           </a>
-		  AWS Beanstock.
         </header>
       </div>
     );
